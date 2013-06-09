@@ -10,6 +10,6 @@ This work is still in progress and can not yet be released for public.
 For a developer snapshot of this API,  please contact me at Chandra [dot] Tungathurthi [at] rwth-aachen.de indicating the purpose in the subject line. 
 
 
--
-Chandra Tungathurthi
+--
+Chandra Tungathurthi,<br/>
 http://about.me/tckb
