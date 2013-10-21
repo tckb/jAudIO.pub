@@ -9,8 +9,8 @@ For more information on this library at http://rand0mbitsandbytes.blogspot.de (n
 The project folder contains samples/demo of the API located in /src/com/tckb/samples.
 
 Video Preview of the API:
-#1 http: //youtu.be/mrUPiQYW7yU
-#2 http: //youtu.be/7t9eYK0hpw0
+* http://youtu.be/mrUPiQYW7yU
+* http://youtu.be/7t9eYK0hpw0
 
 ... and more to come :)
 
