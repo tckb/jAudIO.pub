@@ -1,5 +1,5 @@
-java-audio library.pub
-=================
+Java Audio Utility Library
+==================
 
 Utility classes and libraries to handle audio data, written primarily in Java. Although, porting some of these collections into perl/C++ is expected.
 
